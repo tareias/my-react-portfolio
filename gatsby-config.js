@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Thales Areias - Portfólio',
   },
   plugins: ['gatsby-plugin-react-helmet'],
 }
